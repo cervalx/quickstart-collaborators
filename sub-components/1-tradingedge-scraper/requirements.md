@@ -4,7 +4,7 @@
 - Usage
   - Dashboard main page
   - Positions page
-    Check [/wanted-design/wanted-functionality.drawio](/wanted-design/wanted-functionality.drawio) & [/wanted-design/system-design.md](/wanted-design/system-design.md)
+- Check [/wanted-design/wanted-functionality.drawio](/wanted-design/wanted-functionality.drawio) & [/wanted-design/system-design.md](/wanted-design/system-design.md) for actual use case
 
 # MVP
 
