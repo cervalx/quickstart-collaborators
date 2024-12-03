@@ -11,4 +11,4 @@ Python
 - venv set-up, requirements.txt
 
 ### Documentation:
-- draw.io webapp to open .drawio diagrams
+- draw.io webapp to open .drawio diagrams / drawio extension in VSCode
