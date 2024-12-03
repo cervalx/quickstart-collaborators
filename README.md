@@ -1,6 +1,6 @@
 # quickstart-collaborators
 
-### Begginer requirements
+### Begginer requirements:
 GitHub
 - account, experience with pull, commit, push
 
