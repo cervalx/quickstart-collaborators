@@ -1,6 +1,6 @@
 # quickstart-collaborators
 
-Begginer requirements
+### Begginer requirements
 GitHub
 - account, experience with pull, commit, push
 
@@ -10,5 +10,5 @@ Coding Environment using free AI
 Python
 - venv set-up, requirements.txt
 
-
-
+### Documentation:
+- draw.io webapp to open .drawio diagrams
