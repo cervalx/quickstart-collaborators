@@ -11,10 +11,11 @@ IBKR CPAPI gateway
 Streamlit - python module use to quickly create a interactive webapp for displaying data
 
 ### Sub-Components
+- tradingview-screener
 
 #### Modules
 
 - plotly
 - python-telegram-bot
 
-- tradingview-screener
+
