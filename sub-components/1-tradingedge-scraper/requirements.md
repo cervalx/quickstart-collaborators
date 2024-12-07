@@ -14,5 +14,8 @@
   - sorts them: by newest
 
 # Final version
+- retrieve posts from certain category only
+
+# Extra
 
 - would be great that instead of polling every minute, the server receives new posts notifications and scrapes the posts one by one as they are posted (in order to reduce load on the website)
