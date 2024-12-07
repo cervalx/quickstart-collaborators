@@ -9,3 +9,12 @@ IBKR CPAPI gateway
 ### Frontend
 
 Streamlit - python module use to quickly create a interactive webapp for displaying data
+
+### Sub-Components
+
+#### Modules
+
+- plotly
+- python-telegram-bot
+
+- tradingview-screener
