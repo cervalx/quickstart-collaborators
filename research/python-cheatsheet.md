@@ -1,24 +1,28 @@
-### Recommended to activate a Virtual Environment
+## Steps 1-4 needed to start a project
+### 1. Recommended to activate a Virtual Environment
 
 ```
 python3 -m venv .venv
 . .venv/bin/activate
 ```
 
-### Check if venv is active:
+### 2. Check if venv is active:
 `which python`
 
-### Install pip
+### 3. Install pip
 
 `python -m pip install --upgrade pip`
+
+
+### 4. Install all needed req
+
+`pip install -r requirements.txt`
+
+---
 
 ### Deal with Requirements
 
 `pipreqs .`
-
-### Install all needed req
-
-`pip install -r requirements.txt`
 
 ### Check for version of module (linux / Win)
 
