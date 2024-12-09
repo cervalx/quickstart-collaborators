@@ -1,35 +1,40 @@
 ### Recommended to activate a Virtual Environment
 
+```
 python3 -m venv .venv
 . .venv/bin/activate
+```
 
 ### Check if venv is active:
+`which python`
 
 ### Install pip
 
-python -m pip install --upgrade pip
+`python -m pip install --upgrade pip`
 
 ### Deal with Requirements
 
-pipreqs .
+`pipreqs .`
 
 ### Install all needed req
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 ### Check for version of module (linux / Win)
 
-- pip freeze | grep streamlit
-- pip freeze | findstr streamlit
+```
+pip freeze | grep streamlit
+pip freeze | findstr streamlit
+```
 
 ### Upgrade module
 
-Pip install —-upgrade streamlit
+`Pip install —-upgrade streamlit`
 
 ### Upgrade all
 
-pip install -r requirements.txt --upgrade
+`pip install -r requirements.txt --upgrade`
 
 ### Exit venv
 
-deactivate
+`deactivate`
